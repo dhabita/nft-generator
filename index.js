@@ -3,10 +3,11 @@ const sharp = require('sharp');
 
 const template = `
    
-    <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.5in" height="11in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.5in" height="11in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 500 500"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+
         <!-- kulit -->
         <!-- belang -->
         <!-- telinga -->
@@ -64,7 +65,7 @@ async function svgToPng(name) {
     await resized.toFile(dest);
 }
 
-
+ 
 function createImage(idx) {
 
     const bg = randInt(1);
@@ -81,8 +82,8 @@ function createImage(idx) {
     // 18,900 combinations
 
     const face = [hair, eyes, mouth, nose, beard,head,ears,belang].join('');
-    console.log(face);
 
+    
     if (face[takenFaces]) {
         createImage();
     } else {
