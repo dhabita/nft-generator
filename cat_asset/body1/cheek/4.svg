@@ -9,16 +9,16 @@ viewBox="0 0 500 500"
   <style type="text/css">
    <![CDATA[
     .fil0 {fill:none}
-    .fil1 {fill:#1A1A1A}
+    .fil1 {fill:#CC9933}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <rect class="fil0" x="1.89" y="-0.62" width="500" height="500"/>
-  <g id="_2295128754992">
-   <path class="fil1" d="M345.98 126.09c0,0 -32.53,-27.57 -32.97,-31.32 -0.44,-3.76 34.51,-26.73 34.51,-26.73 0,0 15.16,-0.63 -1.54,58.05z"/>
-   <path class="fil1" d="M110.2 127.28c0,0 32.53,-27.56 32.97,-31.32 0.44,-3.75 -34.51,-26.72 -34.51,-26.72 0,0 -15.16,-0.63 1.54,58.04z"/>
+  <g id="_2295108554800">
+   <ellipse class="fil1" transform="matrix(0.266687 0.0675806 -0.0711373 0.253353 136.864 215.187)" rx="69.6" ry="22.73"/>
+   <ellipse class="fil1" transform="matrix(0.282798 -0.0826204 0.0869687 0.268659 315.239 213.894)" rx="69.6" ry="22.73"/>
   </g>
  </g>
 </svg>
