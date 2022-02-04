@@ -3,7 +3,7 @@ const sharp = require('sharp');
 
 const template = `
    
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.5in" height="11in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500" height="500" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 500 500"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
@@ -15,6 +15,7 @@ viewBox="0 0 500 500"
         <!-- pipi -->
         <!-- mulut -->
         <!-- kumis -->
+    
     </svg>
 `
  
@@ -49,8 +50,8 @@ function getRandomName() {
     }
 }
 
-function getLayer(name, skip=0.0) {
-    const svg = readFileSync(`./layer4/${name}.svg`, 'utf-8');
+function getLayer(name,folder, skip=0.0) {
+    const svg = readFileSync(`./layers/${folder}/${name}.svg`, 'utf-8');
     const re = /(?<=\<svg\s*[^>]*>)([\s\S]*?)(?=\<\/svg\>)/g
     const layer = svg.match(re)[0];
     return Math.random() > skip ? layer : '';
@@ -70,36 +71,37 @@ function createImage(idx) {
 
     const bg = randInt(1);
  //   const ears = randInt(1);
-    const hair = randInt(1)+1;
-    const eyes = randInt(1)+1;
-    const nose = randInt(1)+1; 
+    const hair = randInt(2)+1;
+    const eyes = randInt(2)+1;
+    const nose = randInt(2)+1; 
     const mouth = randInt(1)+1;
-    const pipi = randInt(1)+1;
-    const beard = randInt(1)+1;
-    const head = randInt(1)+1;
-    const ears = randInt(1)+1;
-    const belang = randInt(1)+1;
+    const pipi = randInt(2)+1;
+    const beard = randInt(2)+1;
+    const head = 2;//randInt(2)+1;
+    const ears = randInt(2)+1;
+    const belang = randInt(2)+1;
     // 18,900 combinations
 
     const face = [hair, eyes, mouth, nose, beard,head,ears,belang].join('');
+
 
     
     if (face[takenFaces]) {
         createImage();
     } else {
         const name = getRandomName()
-        console.log(name)
+        console.log(face)
         face[takenFaces] = face;
-
+        let body = "body1/";
         const final = template
            // .replace('<!-- bg -->', getLayer(`bg${bg}`))
-            .replace('<!-- belang -->', getLayer(`belang${belang}`))
-            .replace('<!-- kulit -->', getLayer(`body${head}`))
-            .replace('<!-- telinga -->', getLayer(`telinga${ears}`))
-            .replace('<!-- mata -->', getLayer(`mata${eyes}`))
-            .replace('<!-- pipi -->', getLayer(`pipi${pipi}`))
-            .replace('<!-- mulut -->', getLayer(`mulut${mouth}`))
-            .replace('<!-- kumis -->', getLayer(`kumis${beard}`, 0.5))
+           .replace('<!-- kulit -->', getLayer(`${head}`,body+"body"))
+            .replace('<!-- belang -->', getLayer(`${belang}`,body+'striped'))
+            .replace('<!-- telinga -->', getLayer(`${ears}`,body+'ear'))
+             .replace('<!-- mata -->', getLayer(`${eyes}`,body+'eye'))
+             .replace('<!-- pipi -->', getLayer(`${pipi}`,body+'cheek'))
+             .replace('<!-- mulut -->', getLayer(`${mouth}`,body+'mouth'))
+             .replace('<!-- kumis -->', getLayer(`${beard}`,body+'moustache', 0.5))
 
         const meta = {
             name,
