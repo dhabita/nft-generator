@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2021 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.66666in" height="1.66666in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 1666.66 1666.66"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str0 {stroke:black;stroke-width:6.94;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str0 {stroke:black;stroke-width:2.08;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
     .fil0 {fill:none}
     .fil2 {fill:black}
-    .fil1 {fill:#4D4D4D}
+    .fil1 {fill:#999966}
     .fil3 {fill:white}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <rect class="fil0" x="6.32" y="-2.06" width="1666.67" height="1666.67"/>
-  <g id="_2853684054400">
-   <ellipse class="fil1 str0" cx="578.91" cy="555.31" rx="124.49" ry="113.05"/>
-   <ellipse class="fil1 str0" cx="883.65" cy="554.82" rx="124.49" ry="113.05"/>
-   <ellipse class="fil2 str0" cx="588.61" cy="548.73" rx="49.66" ry="47.17"/>
-   <ellipse class="fil2 str0" cx="889.42" cy="552.85" rx="49.66" ry="47.17"/>
-   <ellipse class="fil3 str0" cx="572.93" cy="559.6" rx="16.51" ry="14.67"/>
-   <ellipse class="fil3 str0" cx="876.97" cy="561.27" rx="16.51" ry="14.67"/>
-   <ellipse class="fil3 str0" cx="621.76" cy="524.18" rx="29.03" ry="24.77"/>
-   <ellipse class="fil3 str0" cx="924.39" cy="525.45" rx="29.03" ry="24.77"/>
+  <rect class="fil0" x="1.89" y="-0.62" width="500" height="500"/>
+  <g id="_2295120473728">
+   <ellipse class="fil1 str0" cx="173.67" cy="166.59" rx="37.35" ry="33.91"/>
+   <ellipse class="fil1 str0" cx="265.1" cy="166.45" rx="37.35" ry="33.91"/>
+   <ellipse class="fil2 str0" cx="176.58" cy="164.62" rx="14.9" ry="14.15"/>
+   <ellipse class="fil2 str0" cx="266.83" cy="165.86" rx="14.9" ry="14.15"/>
+   <ellipse class="fil3 str0" cx="171.88" cy="167.88" rx="4.95" ry="4.4"/>
+   <ellipse class="fil3 str0" cx="263.09" cy="168.38" rx="4.95" ry="4.4"/>
+   <ellipse class="fil3 str0" cx="186.53" cy="157.26" rx="8.71" ry="7.43"/>
+   <ellipse class="fil3 str0" cx="277.32" cy="157.63" rx="8.71" ry="7.43"/>
   </g>
  </g>
 </svg>
