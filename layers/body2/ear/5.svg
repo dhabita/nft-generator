@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <clipPath id="id0">
+    <rect x="-566.65" y="7.11" width="400" height="400"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-929.46" y="504.95" width="601.63" height="601.63"/>
+   </clipPath>
+ </defs>
+ <g id="sampel" visibility="hidden">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g clip-path="url(#id0)">
+   <image x="-566.65" y="7.11" width="400" height="400" xlink:href="5_Images\5_ImgID1.png"/>
+  </g>
+  <g clip-path="url(#id1)">
+   <image x="-929.46" y="504.95" width="601.63" height="601.63" xlink:href="5_Images\5_ImgID2.png"/>
+  </g>
+  <ellipse fill="#F7B813" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="8.46" cy="626.35" rx="34.16" ry="33.24"/>
+  <ellipse fill="#E96300" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="99.01" cy="628.56" rx="34.16" ry="33.24"/>
+  <ellipse fill="#FFD952" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="192.41" cy="626.96" rx="34.16" ry="33.24"/>
+  <ellipse fill="#E98700" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="287.41" cy="624.57" rx="34.16" ry="33.24"/>
+  <ellipse fill="#FFED8B" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="384.78" cy="621.19" rx="34.16" ry="33.24"/>
+  <ellipse fill="#E3B085" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="486.71" cy="621.19" rx="34.16" ry="33.24"/>
+  <ellipse fill="#B11914" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="13.15" cy="746.61" rx="42.31" ry="40.8"/>
+  <ellipse fill="#B11914" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="124.62" cy="743.75" rx="42.31" ry="40.8"/>
+ </g>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <rect fill="none" x="1.89" y="-0.62" width="500" height="500"/>
+  <g id="_1748600926800">
+   <path fill="#CC3300" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" d="M119.91 122.09c0,0 16.79,-20.97 28.12,-25 0,0 -10.43,-14.92 -33.56,-19.76 0,0 -10.88,20.57 5.44,44.76z"/>
+   <path fill="#CC3300" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" d="M364.36 123.3c0,0 -16.79,-20.97 -28.12,-25 0,0 10.43,-14.92 33.56,-19.76 0,0 10.89,20.57 -5.44,44.76z"/>
+   <path fill="#990000" d="M357.66 114.06l6.57 7.42c1.22,1.37 4.13,-7.69 6.6,-14.68 1.65,-4.69 1.37,-9.39 1.46,-10.34 0.39,-4.26 0.48,-9.16 -3.02,-16.7 0,0 -4.72,31.52 -11.61,34.3z"/>
+   <path fill="#990000" d="M126.96 112.6l-6.57 7.41c-1.23,1.38 -4.14,-7.69 -6.6,-14.68 -1.65,-4.68 -1.37,-9.38 -1.46,-10.34 -0.39,-4.25 -0.48,-9.16 3.02,-16.69 0,0 4.72,31.51 11.61,34.3z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <clipPath id="id0">
+    <rect x="56" y="66" width="400" height="400"/>
+   </clipPath>
+ </defs>
+ <g id="sampel" visibility="hidden">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g clip-path="url(#id0)">
+   <image x="56" y="66" width="400" height="400" xlink:href="2_Images\2_ImgID1.png"/>
+  </g>
+ </g>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <rect fill="none" x="1.89" y="-0.62" width="500" height="500"/>
+  <g id="_2295307068288">
+   <ellipse fill="#CCCCCC" stroke="black" stroke-width="2.08" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="190.34" cy="158.42" rx="41.21" ry="37.42"/>
+   <ellipse fill="#CCCCCC" stroke="black" stroke-width="2.08" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="291.2" cy="158.26" rx="41.21" ry="37.42"/>
+   <ellipse fill="black" stroke="black" stroke-width="2.08" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="193.54" cy="156.24" rx="16.44" ry="15.61"/>
+   <ellipse fill="black" stroke="black" stroke-width="2.08" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="293.11" cy="157.6" rx="16.44" ry="15.61"/>
+   <ellipse fill="white" stroke="black" stroke-width="2.08" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="188.35" cy="159.84" rx="5.46" ry="4.86"/>
+   <ellipse fill="white" stroke="black" stroke-width="2.08" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="288.99" cy="160.39" rx="5.46" ry="4.86"/>
+   <ellipse fill="white" stroke="black" stroke-width="2.08" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="204.52" cy="148.11" rx="9.61" ry="8.2"/>
+   <ellipse fill="white" stroke="black" stroke-width="2.08" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="304.69" cy="148.53" rx="9.61" ry="8.2"/>
+  </g>
+ </g>
+</svg>

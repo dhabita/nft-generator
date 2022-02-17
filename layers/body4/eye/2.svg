@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <clipPath id="id0">
+    <rect x="19.26" y="0.09" width="461.47" height="468.42"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1" visibility="hidden">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g clip-path="url(#id0)">
+   <image x="19.26" y="0.09" width="461.47" height="468.41" xlink:href="2_Images\2_ImgID1.png"/>
+  </g>
+ </g>
+ <g id="Layer_x0020_2">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <rect fill="none" y="-1" width="500" height="500"/>
+  <g id="_1752774746960">
+   <path fill="black" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" d="M159.23 132.42c0,0 21.27,-25.93 40.3,3.78 0,0 12.18,18.37 -4.58,31.42 0,0 -12.03,8.72 -25.05,3.13 0,0 -16.82,-8.47 -15.1,-25.87 0,0 0.36,-8.37 4.43,-12.46z"/>
+   <path fill="black" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" d="M254.26 149c0,0 0.12,-23.5 20.05,-29.17 0,0 17.23,-3.15 25.09,10.48 0,0 11.82,15.83 -2.44,30.94 0,0 -10.64,11.4 -26.91,6.44 0,0 -16.48,-7.16 -15.79,-18.69z"/>
+   <path fill="white" d="M180.51 152.43c0,0 7.04,-6.92 12.54,0.19 0,0 6.32,7.47 -2.07,12.1 0,0 -6.62,4.04 -10.85,-2.55 0,0 -4.01,-3.6 0.38,-9.74z"/>
+   <ellipse fill="white" transform="matrix(0.346334 -0.0471359 0.0471359 0.346334 191.526 138.647)" rx="11.27" ry="11.19"/>
+   <ellipse fill="white" transform="matrix(0.323241 -0.0439929 0.0439929 0.323241 168.564 136.446)" rx="8.86" ry="5.19"/>
+   <ellipse fill="white" transform="matrix(0.323241 -0.0439929 0.0439929 0.323241 285.602 153.532)" rx="26.04" ry="24.6"/>
+   <ellipse fill="white" transform="matrix(0.323241 -0.0439929 0.0439929 0.323241 289.975 134.366)" rx="10.5" ry="10.91"/>
+   <ellipse fill="white" transform="matrix(0.323241 -0.0439929 0.0439929 0.323241 271.391 135.269)" rx="8.75" ry="6.79"/>
+  </g>
+ </g>
+</svg>
