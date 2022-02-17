@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <clipPath id="id0">
+    <rect x="19.26" y="0.09" width="461.47" height="468.42"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1" visibility="hidden">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g clip-path="url(#id0)">
+   <image x="19.26" y="0.09" width="461.47" height="468.41" xlink:href="3_Images\3_ImgID1.png"/>
+  </g>
+ </g>
+ <g id="Layer_x0020_2">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <rect fill="none" y="-1" width="500" height="500"/>
+  <g id="_1716739060480">
+   <path fill="none" stroke="#B56824" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" d="M384.55 185.93c0,0 28.14,-5.9 35.78,-2.77"/>
+   <line fill="none" stroke="#B56824" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" x1="376.57" y1="164.75" x2="411.99" y2= "141.13" />
+   <path fill="none" stroke="#B56824" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" d="M385.25 201.91c0,0 27.43,8.68 31.6,14.59"/>
+   <line fill="none" stroke="#B56824" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" x1="95.49" y1="160.05" x2="63.29" y2= "135.61" />
+   <path fill="none" stroke="#B56824" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" d="M90.69 180.83c0,0 -33.79,-6.62 -38.13,-5.25"/>
+   <path fill="none" stroke="#B56824" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" d="M89.06 197.77c0,0 -14.89,-0.59 -33.36,14.7"/>
+  </g>
+ </g>
+</svg>

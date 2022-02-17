@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <clipPath id="id0">
+    <rect x="19.26" y="0.09" width="461.47" height="468.42"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1" visibility="hidden">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g clip-path="url(#id0)">
+   <image x="19.26" y="0.09" width="461.47" height="468.41" xlink:href="3_Images\3_ImgID1.png"/>
+  </g>
+ </g>
+ <g id="Layer_x0020_2">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <rect fill="none" y="-1" width="500" height="500"/>
+  <g id="_1752783229984">
+   <ellipse fill="#999999" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" transform="matrix(1.28844 -0.0902412 0.0902412 1.28844 177.757 147.352)" rx="4.65" ry="11.17"/>
+   <ellipse fill="#999999" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" transform="matrix(1.28533 -0.0530935 0.0530935 1.28533 284.516 145.467)" rx="4.65" ry="11.17"/>
+  </g>
+ </g>
+</svg>

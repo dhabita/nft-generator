@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.06383 -0 -0 0.703504 -15 79)" cx="235.47" cy="265.39" r="69.78" fx="235.47" fy="265.39">
+    <stop offset="0" stop-opacity="1" stop-color="yellow"/>
+    <stop offset="0.8" stop-opacity="1" stop-color="#EEDE16"/>
+    <stop offset="1" stop-opacity="1" stop-color="#DEBD2C"/>
+   </radialGradient>
+ </defs>
+ <g id="Layer_x0020_2">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect fill="url(#id0)" x="0.47" y="0.39" width="500" height="500"/>
+ </g>
+</svg>

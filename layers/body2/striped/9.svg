@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <clipPath id="id0">
+    <rect x="-566.65" y="7.11" width="400" height="400"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-929.46" y="504.95" width="601.63" height="601.63"/>
+   </clipPath>
+ </defs>
+ <g id="sampel" visibility="hidden">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g clip-path="url(#id0)">
+   <image x="-566.65" y="7.11" width="400" height="400" xlink:href="9_Images\9_ImgID1.png"/>
+  </g>
+  <g clip-path="url(#id1)">
+   <image x="-929.46" y="504.95" width="601.63" height="601.63" xlink:href="9_Images\9_ImgID2.png"/>
+  </g>
+  <ellipse fill="#F7B813" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="8.46" cy="626.35" rx="34.16" ry="33.24"/>
+  <ellipse fill="#E96300" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="99.01" cy="628.56" rx="34.16" ry="33.24"/>
+  <ellipse fill="#FFD952" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="192.41" cy="626.96" rx="34.16" ry="33.24"/>
+  <ellipse fill="#E98700" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="287.41" cy="624.57" rx="34.16" ry="33.24"/>
+  <ellipse fill="#FFED8B" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="384.78" cy="621.19" rx="34.16" ry="33.24"/>
+  <ellipse fill="#E3B085" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="486.71" cy="621.19" rx="34.16" ry="33.24"/>
+  <ellipse fill="#B11914" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="13.15" cy="746.61" rx="42.31" ry="40.8"/>
+  <ellipse fill="#B11914" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2.61313" cx="124.62" cy="743.75" rx="42.31" ry="40.8"/>
+ </g>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <rect fill="none" x="1.89" y="-0.62" width="500" height="500"/>
+  <g id="_2099508848608">
+   <path fill="#624349" d="M113.25 389.65c-0.49,-5.91 0.23,-11.59 1.75,-17.87 0,0 3.54,-27.7 19.91,-54.04l11.43 5.88c0,0 44.99,16.35 -11.09,17.19 0,0 -5.95,5.52 0.82,6.15 6.78,0.63 45.95,5.5 41.14,13.56 -4.81,8.05 -51.19,7.37 -51.19,7.37 0,0 -5.95,5.52 -0.53,6.03 5.42,0.5 26.99,3.73 19.57,10.33 -3.94,3.5 -24.21,5.2 -31.81,5.4z"/>
+   <path fill="#624349" d="M238 67.27c0.98,-0.62 0.44,1.08 0.25,3.71 -0.07,0.9 -0.1,1.9 -0.01,2.96 0.28,3.52 0.08,9.02 1.54,8.36 1.63,-0.74 7.75,-6.95 15.26,-9.23 1.17,5.61 -3.84,9.6 -0.15,12.03 11.81,7.75 55.33,-0.1 39.44,10.48 0,0 -41.72,0.13 -39.94,8.65 1.78,8.51 32.09,7.79 32.09,7.79 -0.9,9.3 -30.29,5.93 -30.29,5.93 0,0 -6.23,-2.68 -9.35,24.13 -3.11,26.81 -12.34,-10.06 -12.34,-10.06 0,0 -0.27,-18.8 -17.92,-14.25 -17.64,4.55 -17.94,-8.51 -17.94,-8.51 0,0 15.25,4.08 23.79,-3.44 8.55,-7.51 1.05,-10.84 1.05,-10.84 0,0 -43.26,-0.02 -40.28,-3.9 4.61,-6.01 17.72,-6.24 27.62,-8.49 2.44,-0.55 5.33,-1.69 7.1,-2.53 5.24,-2.48 7.07,-5.88 20.08,-12.79z"/>
+   <path fill="#624349" d="M372.02 383.59c-0.12,-5.06 -1.3,-11.05 -2.69,-17.09 0,0 -6.14,-28.87 -22.4,-55.84 -18.11,9.91 -49.44,21.69 1.69,24.27 0,0 5.79,5.72 -1,6.11 -6.79,0.39 -46.11,3.87 -41.53,12.09 4.58,8.22 50.97,9.17 50.97,9.17 0,0 5.79,5.73 0.36,6.04 -5.43,0.32 -27.09,2.78 -19.87,9.63 6.15,5.83 24.39,5 34.47,5.62z"/>
+   <path fill="#624349" d="M256.87 427.28c22.04,12.1 27.56,-5.48 39.98,-8.47 0,0 2.15,10.12 -4.74,21.19 -2.63,4.23 -10.05,8.21 -16.61,10.26 -0.03,-0.01 -5.95,3.28 -12.7,-7.33 -2.11,-3.3 -4.24,-8.87 -5.93,-15.65z"/>
+   <path fill="#624349" d="M193.91 428.11c28.39,10.1 30.66,-5.12 43.09,-8.11 0,0 1,25 -22.96,31.1 0.48,1.07 -16.09,-5.79 -20.13,-22.99z"/>
+   <polygon fill="#624349" points="381.47,361.15 396.5,378.1 401.67,373.65 385.68,355.44 "/>
+   <polygon fill="#624349" points="379.24,375.93 385.91,386.28 391.46,382.04 377.43,365.5 "/>
+   <polygon fill="#624349" points="389.7,346.98 410.67,364.87 415.61,359.18 391.32,340.36 "/>
+   <path fill="#624349" d="M390.9 328.95c0,0 31.03,11.38 28.32,-7.11l-1.3 -7.4 -2.78 -2.29 -3.6 -2.17c-1.43,-0.85 -13.64,-1.03 -19.21,1.38 -2.71,1.18 -3.98,2.76 -4.4,4.13 -0.28,0.92 -0.29,2.38 0.08,4.12 0.57,2.73 2.01,6.17 2.89,9.34z"/>
+  </g>
+ </g>
+</svg>
